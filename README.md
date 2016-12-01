@@ -15,3 +15,5 @@ geditillä lisättyä tekstin pätkää.
 
 
 [Käyttöohje](https://github.com/tttudor/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
+
+[KivaKuva](https://github.com/tttudor/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
