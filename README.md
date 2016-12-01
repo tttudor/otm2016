@@ -11,3 +11,4 @@ _tässä yhdistettyä **blaa**_
 geditillä lisättyä tekstin pätkää.
 
 
+[Käyttöohje](https://github.com/tttudor/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
