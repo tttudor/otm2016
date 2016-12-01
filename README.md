@@ -8,4 +8,6 @@ __tää on sama__
 
 _tässä yhdistettyä **blaa**_
 
+geditillä lisättyä tekstin pätkää.
+
 
